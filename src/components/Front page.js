@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+ import React, { useState, useEffect } from 'react';
 import Lottie from 'react-lottie';
 import { Link } from 'react-router-dom';
 import bg from './assets/images/page-1_bg.png';
